@@ -4,3 +4,7 @@ test
 automation
 manual
 checking
+
+new
+changes
+workings
